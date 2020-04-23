@@ -1,0 +1,10 @@
+h1 {
+    color: brown;
+}
+.nav {
+    position: fixed;
+    right:0;
+}
+.box {
+    height: 10000px;
+}
